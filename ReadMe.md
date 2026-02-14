@@ -14,7 +14,7 @@ src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804
 - 🔭 Working on **Data Science & Web Development**
 - 🌱 Learning **DevOps & Competitive Programming**
 - 👯 Open to collaborate on **Android, Web & Data projects**
-- 💬 Ask me anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)
+- 💬 Ask me anything [here](https://github.com/manzi0072201/manzi0072201)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *The best part of the journey is figuring things out*
 
