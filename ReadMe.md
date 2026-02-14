@@ -98,10 +98,10 @@ src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/JayantGoel001/"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"></a>
-  <a href="https://twitter.com/JayantGoel001"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg"></a>
-  <a href="https://leetcode.com/JayantGoel001/"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg"></a>
-  <a href="https://www.hackerrank.com/JayantGoel001/"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg"></a>
+  <a href="/"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"></a>
+  <a href=""><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg"></a>
+  <a href="/"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg"></a>
+  <a href="/"><img height="55" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg"></a>
 </p>
 
 ---
@@ -112,9 +112,8 @@ src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804
 
 </div>
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](https://github.com/manzi0072201/manzi0072201)
 
----
 
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)  
-**Last Edited on**: 23/06/2022
+
+
